@@ -6,7 +6,10 @@
       </g-link>
     </section>
     <section class="container mx-auto px-4">
-      <h1 class="font-display text-3xl sm:text-4xl tracking-widest">We’re building a platform to <mark class="bg-purple-500 text-white">connect</mark> the Creative Church</h1>
+      <h1 class="font-black text-3xl sm:text-4xl tracking-widest">
+        We’re building a platform to
+        <mark class="bg-bread-primary">connect</mark> the Creative Church
+      </h1>
     </section>
   </header>
 </template>

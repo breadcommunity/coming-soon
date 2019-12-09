@@ -26,7 +26,7 @@
         </details>
       </section>
       <section class="container mx-auto px-4 py-8 text-center">
-        <g-link to="/submit" class="rounded-full no-underline bg-purple-500 text-white font-bold px-12 py-3 mx-auto">Submit a Project</g-link>
+        <g-link to="/submit" class="rounded-full no-underline text-black bg-bread-primary font-bold px-12 py-3 mx-auto">Submit a Project</g-link>
       </section>
     </main>
   </Layout>
@@ -54,7 +54,7 @@ p {
 }
 
 blockquote {
-  @apply border-l-4 border-purple-400 p-4 pl-6 text-lg mb-4 bg-gray-200;
+  @apply border-l-8 border-bread-primary p-4 pl-6 text-lg mb-4 bg-bread-grey;
 }
 
 details {
@@ -66,6 +66,6 @@ summary {
 }
 
 a {
-  @apply underline text-purple-600;
+  @apply underline;
 }
 </style>
